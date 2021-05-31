@@ -1,6 +1,6 @@
 # rreproduce-sample
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/feiX-OvO/reproduce-assignment/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/feiX-OvO/reproduce-assignment/main)
 
 My project with Jupyter Notebook
 
